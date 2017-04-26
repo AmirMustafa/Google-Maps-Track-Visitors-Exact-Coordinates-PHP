@@ -37,15 +37,15 @@ API_KEY_PASTE_HERE&callback=initMap">
 ```
 You may probably find my API Key so replace it with your free one.
 
-9. Run your code through server(Note you can run this code through any browser, for google chrome Https (secure server is must))
+9. Run index.php code through server(Note you can run this code through any browser, for google chrome Https (secure server is must))
 
 10. Additionally have provided each snippet of the code:
 
-Snippet1: Receives Latutude and Longitude with the help of HTML5 Geolocation
+    Snippet1: Receives Latutude and Longitude with the help of HTML5 Geolocation
 
-Snippet2: Google Maps with hardcoded co-ordinates
+    Snippet2: Google Maps with hardcoded co-ordinates
 
-Snippet3: Receives IP plus Coordinates are fetched and Google Maps shown
+    Snippet3: Receives IP plus Coordinates are fetched and Google Maps shown
 
   
 ## Preview
