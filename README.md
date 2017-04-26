@@ -37,7 +37,7 @@ API_KEY_PASTE_HERE&callback=initMap">
 ```
 You may probably find my API Key so replace it with your free one.
 
-9. Run index.php code through server(Note you can run this code through any browser, for google chrome Https (secure server is must))
+9. Run index.php code through server(Note you can run this code through any browser, for google chrome Https (secure server is must)) and for other browsers no special requirements
 
 10. Additionally have provided each snippet of the code:
 
