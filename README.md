@@ -51,52 +51,33 @@ Snippet3: Receives IP plus Coordinates are fetched and Google Maps shown
 ## Preview
 
 
-![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25339123/463973d6-291f-11e7-80d6-0b4c6fc4270f.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443295/0d1e0fe2-2ac5-11e7-9718-49b1c084e4e7.png?raw=true "Screenshot of Google Maps")
 <br/><br/><br/>
 
-![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25339126/47e9942c-291f-11e7-94d7-5debcdbb2eb5.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443298/1112de70-2ac5-11e7-9a04-8d7523d4ab99.png?raw=true "Screenshot of Google Maps")
 <br/><br/><br/>
 
-![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25339134/4a171544-291f-11e7-94b3-6cee74cb63d8.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443308/14fa29d0-2ac5-11e7-9b12-dc01184bde67.png?raw=true "Screenshot of Google Maps")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339139/4d43d680-291f-11e7-834a-211865054c36.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443272/fabc62b8-2ac4-11e7-8b2e-8dc799c425e6.png?raw=true "Screenshot of Google Maps")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339146/53b969b2-291f-11e7-86c5-62db3f894c38.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443278/fe92006e-2ac4-11e7-9b87-7ca0941a7f4b.png?raw=true "Screenshot of Google Maps")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339155/5a91b67c-291f-11e7-8a0a-78cd4011d705.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443282/01b2b928-2ac5-11e7-848e-8b049060fda4.png?raw=true "Screenshot of Google Maps")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339165/61283790-291f-11e7-815f-af3240b24aa8.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443287/04f36e02-2ac5-11e7-9e07-9536df0b04a8.png?raw=true "Screenshot of Google Maps")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339174/65f40b0a-291f-11e7-8f4c-829e09d071d3.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443291/09032190-2ac5-11e7-97fb-a9150e6b3a56.png?raw=true "Screenshot of Google Maps")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339183/6b070f16-291f-11e7-95f8-c5fb55f2f28a.png?raw=true "Screenshot of Quotes App")
-<br/><br/><br/>
-
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339191/6f7fc95c-291f-11e7-9c78-0f2f92030927.png?raw=true "Screenshot of Quotes App")
-<br/><br/><br/>
-
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339201/7514392a-291f-11e7-8277-361ae48c995e.png?raw=true "Screenshot of Quotes App")
-<br/><br/><br/>
-
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339208/7af99f1a-291f-11e7-80ab-f1a32a8be88d.png?raw=true "Screenshot of Quotes App")
-<br/><br/><br/>
-
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339217/7fd2f0e0-291f-11e7-9c59-83b886c4aa4c.png?raw=true "Screenshot of Quotes App")
-<br/><br/><br/>
-
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339226/84b946ea-291f-11e7-9691-2242c841d91b.png?raw=true "Screenshot of Quotes App")
-<br/><br/><br/>
-
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339229/88512944-291f-11e7-92e9-1c0cf21f35ff.png?raw=true "Screenshot of Quotes App")
-<br/><br/><br/>
 
 <br/><br/><br/>
+
 
 
 
