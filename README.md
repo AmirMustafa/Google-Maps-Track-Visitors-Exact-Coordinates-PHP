@@ -13,7 +13,7 @@ Google Maps Track Visitors Exact Coordinates
 
 ## Installation
 1. Clone or Download the repository and keep it in server or local server(like XAMPP).
-2. Now this is API based project, so goto [Google Developers](https://developers.google.com/maps/documentation/javascript/get-api-key) and create you free API. Follow the images beow for better understanding.
+2. Now this is API based project, so goto [Google Developers](https://developers.google.com/maps/documentation/javascript/get-api-key) and create you free API. Follow the images below for better understanding.
 
 3. Sign in to Gmail.
 
